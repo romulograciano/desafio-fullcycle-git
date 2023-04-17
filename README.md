@@ -1,0 +1,1 @@
+# Inclusao de arquivo com um commit verificado com gpg key
